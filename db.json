@@ -1,0 +1,170 @@
+[
+    {
+      "question": "O que acontece em uma cadeia alimentar?",
+      "answerA": "Os presos realizam duas refeições diárias (almoço e jantar)",
+      "answerB": "Os animais presos em locais de difícil acesso não conseguem se alimentar",
+      "answerC": "Um grupo de animais forma uma fila, que organiza sua alimentação",
+      "answerD":"Organismos estabelecem relação de alimentação em um ecossistema",
+      "correctAnswer": "Organismos estabelecem relação de alimentação em um ecossistema"
+    },
+    {
+      "question": "Autótrofos são os seres vivos que...",
+      "answerA": "possuem autonomia para andar",
+      "answerB": "são capazes de produzir seu próprio alimento",
+      "answerC": "se alimentam de outros seres da mesma espécie",
+      "answerD":"realizam suas tarefas de forma automática",
+      "correctAnswer": "são capazes de produzir seu próprio alimento"
+    },
+    {
+      "question": "A sigla DNA, em português(ADN), significa:",
+      "answerA": "Ácido desintoxicante",
+      "answerB": "Ácido desoxinexorável",
+      "answerC": "Ácido desoxirribonucleico",
+      "answerD":"Ácido desinflamante",
+      "correctAnswer": "Ácido desoxirribonucleico"
+    },
+    {
+      "question": "O osso mais longo do corpo humano é o..",
+      "answerA": "fémur",
+      "answerB": "metacarpo",
+      "answerC": "esterno",
+      "answerD":"bigorna",
+      "correctAnswer": "fémur"
+    },
+    {
+      "question": "Qual é o nome do hormônio masculino produzido nos testículos?",
+      "answerA": "Adrenalina",
+      "answerB": "Testosterona",
+      "answerC": "Estrogénio",
+      "answerD":"Telocêntrico",
+      "correctAnswer": "Testosterona"
+    },
+    {
+      "question": "Os anfíbios são animais que..",
+      "answerA": "vivem apenas em ambiente aquático",
+      "answerB": "possuem bicos e penas",
+      "answerC": "podem viver tanto em terra como na água",
+      "answerD":"estão entre os mais velozes do mundo'",
+      "correctAnswer": "podem viver tanto em terra como na água"
+    },
+    {
+      "question": "Qual destes órgãos não faz parte do sistema digestivo:",
+      "answerA": "Reto",
+      "answerB": "Timo",
+      "answerC": "Fígado",
+      "answerD":"Faringe",
+      "correctAnswer": "Timo"
+    },
+    {
+      "question": "Qual destas componentes não faz parte de uma célula animal:",
+      "answerA": "Membrana Celular",
+      "answerB": "Cloroplasto",
+      "answerC": "Parede Celular",
+      "answerD":"Lisossoma",
+      "correctAnswer": "Lisossoma"
+    },
+    {
+      "question": "Onde ocorre a respiração?",
+      "answerA": "Nariz e boca",
+      "answerB": "Laringe",
+      "answerC": "Pulmões",
+      "answerD":"Alvéolos Pulmonares",
+      "correctAnswer": "Alvéolos Pulmonares"
+    },
+    {
+      "question": "Não é osso:",
+      "answerA": "Metacarpo",
+      "answerB": "Trapézio",
+      "answerC": "Rádio",
+      "answerD":"Tíbia",
+      "correctAnswer": "Trapézio"
+    },
+    {
+      "question": "Qual é a função dos rins:",
+      "answerA": "Eliminar substâncias tóxicas oriundas do metabolismo",
+      "answerB": "Filtrar a urina",
+      "answerC": "Produção de Adrenalina",
+      "answerD":"Existir",
+      "correctAnswer": "Eliminar substâncias tóxicas oriundas do metabolismo"
+    },
+    {
+      "question": "Qual destes órgãos não faz parte do sistema linfático:",
+      "answerA": "Tiróide",
+      "answerB": "Timo",
+      "answerC": "Baço",
+      "answerD":"Tonsilas/Amígdalas",
+      "correctAnswer": "Tiróide"
+    },
+    {
+      "question": "Como se chama a região que se encontra entre o estômago e o intestino delgado",
+      "answerA": "Esfincter",
+      "answerB": "Septo intestinal",
+      "answerC": "Duodeno",
+      "answerD":"Ilhéus de Langerhans",
+      "correctAnswer": "Duodeno"
+    },
+    {
+      "question": "Qual destas é uma das funções do Fígado?",
+      "answerA": "'Bombear' sangue para todo o organismo",
+      "answerB": "Filtrar substâncias tóxicas do sangue",
+      "answerC": "Produção de eritrócitos",
+      "answerD":"Regulação do metabolismo de vários nutrientes",
+      "correctAnswer": "Eliminar substâncias tóxicas oriundas do metabolismo"
+    },
+    {
+      "question": "O que acontece durante o processo da fotossíntese (DIA)",
+      "answerA": "A planta recebe oxígénio em troca de dióxido de carbono",
+      "answerB": "A planta recebe dióxido de carbono em troca de oxígénio",
+      "answerC": "A planta recebe dióxido de carbono",
+      "answerD":"A planta recebe oxigénio",
+      "correctAnswer": "A planta recebe dióxido de carbono em troca de oxígénio"
+    },
+    {
+      "question": "Qual é o tipo sanguíneo conhecido por ser o 'Dador Universal'",
+      "answerA": "O",
+      "answerB": "A",
+      "answerC": "AB",
+      "answerD":"B",
+      "correctAnswer": "O"
+    },
+    {
+      "question": "Qual é o tipo sanguíneo conhecido por ser o 'Receptor Universal'",
+      "answerA": "O",
+      "answerB": "A",
+      "answerC": "AB",
+      "answerD":"B",
+      "correctAnswer": "AB"
+    },
+    {
+      "question": "Em que órgão ocorre a fecundação",
+      "answerA": "Útero",
+      "answerB": "Trompa de falópio",
+      "answerC": "Vagina",
+      "answerD":"Fígado",
+      "correctAnswer": "Trompa de falópio"
+    },
+    {
+      "question": "Que órgão do sistema circulatório é responsável pela entrada de sangue no coração?",
+      "answerA": "Veias",
+      "answerB": "Artérias",
+      "answerC": "Miocárdio",
+      "answerD":"Glóbulos Vermelhos",
+      "correctAnswer": "Veias"
+    },
+    {
+      "question": "Que órgão do sistema circulatório é responsável pela saída de sangue no coração?",
+      "answerA": "Veias",
+      "answerB": "Artérias",
+      "answerC": "Pericárdio",
+      "answerD":"Plaquetas",
+      "correctAnswer": "Artérias"
+    },
+    {
+      "question": "Que osso faz parte da mão?",
+      "answerA": "Carpo",
+      "answerB": "Tarso",
+      "answerC": "Tíbia",
+      "answerD":"Omoplata",
+      "correctAnswer": "Carpo"
+    }
+  ]
